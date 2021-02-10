@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    display: inline-block;
+    justify-content: space-evenly;
+    margin:30px;
+
+}
+
+.villageA {
+    display: inline-block;
+    justify-content: space-evenly;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_nsuHBJWGNp_CzTMo1n5xiMcEzkqlczS0_A&usqp=CAU');
+    width:200px;
+    height: 250px;
+    background-repeat: no-repeat;
+    margin:20px;
+    font-weight: bold;
+}
+
+
+
+.villageB {
+    display: inline-block;
+    justify-content: space-evenly;
+    border: solid 1px lavenderblush;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLTnUJf5T0ZX_YmFFAJusgCNM-BDYa13TFMw&usqp=CAU');
+    height:250px;
+    width:200px;
+    background-repeat: no-repeat;
+    margin:20px;
+    font-weight: bold;
+}
+
+.villageC {
+    display: inline-block;
+    justify-content: space-evenly;
+    border: solid 1px lavenderblush;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzzne8dsemCnec0DJ_vzv2jJ-bJRkBggUW3w&usqp=CAU');
+    height:250px;
+    width:200px;
+    background-repeat: no-repeat;
+    margin: 20px;
+    font-weight: bold;
+}

@@ -1,0 +1,61 @@
+
+
+
+table {
+    
+    width: 90%;
+    justify-content: center;
+    
+}
+
+
+td {
+    padding: 10px;  
+    height: 20px;
+    text-align: left;
+    justify-content: right;
+    
+}
+
+tr{
+    justify-content: space-evenly;
+    display:flex;
+    color: indigo;
+    font-size: 25px;
+    background-color: rgb(218, 131, 189);
+   
+
+}
+
+.header {
+    display:flex;
+}
+
+.email{
+    flex: 2 1 0;
+}
+.first{
+    flex: 1 1 0;
+}
+
+.last{
+    flex: 1 1 0;
+}
+
+.tour{
+    flex: 1 1 0;
+}
+
+
+.container h2{
+        display: inline-block;
+        justify-content: space-evenly;
+        border: solid 1px lavenderblush;
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzzne8dsemCnec0DJ_vzv2jJ-bJRkBggUW3w&usqp=CAU');
+        height:250px;
+        width:250px;
+        background-repeat: no-repeat;
+        margin: 20px;
+        font-weight: bold;
+    
+}

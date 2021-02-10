@@ -1,0 +1,96 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 100%;
+    height:40%;
+   
+    margin-top: 10px;
+  }
+
+  .tour-information {
+    
+    margin-top: 150px;
+  }
+
+  .tour-highlights h2 {
+    font-family: "Pacifico"; 
+    color: rgb(165, 74, 230);
+  }
+
+  .image-container {
+    height: 16.66rem;
+    width: 50%;
+    margin-bottom: 10px;
+  }
+  .container h1 {
+    font-family: "Pacifico";
+    margin-top: 10px;
+    padding-top: 10px;
+    font-size: 50px;
+   
+  }
+
+  .container h3 {
+    font-family: "Pacifico";
+    margin-top: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+   
+  }
+
+  .container2 {
+    border: solid 1px darkviolet;
+    background-image: url('https://www.francetraveltips.com/wp-content/uploads/2017/08/Gordes-Restaurant.jpg');
+    background-size: cover;
+    color: blanchedalmond;
+    font-size: 30px;
+    padding-top: 10px;
+   
+}
+
+.rocamadour .tour-information{
+
+  margin-top: 250px;
+ 
+}
+
+  .remy{
+    border: solid 2px darkviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height:100%;
+    color: blanchedalmond;
+    font-size: 30px;
+    padding-top: 10px;
+    background-image: url('http://localhost:3000/saint_remy4.jpg');
+    background-size: cover;
+}
+
+.rocamadour{
+  border: solid 2px darkviolet;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height:100%;
+  background-image: url('http://localhost:3000/rocamadour3.jpg');
+  background-size: cover;
+  color: blanchedalmond;
+    font-size: 30px;
+    padding-top: 10px;
+  
+}
+
+
+.button {
+    margin:20px;
+    margin-bottom: 40px;
+    background-color: deepskyblue;
+    height: 50px;
+    width: 150px;
+    font-weight: bold;
+    
+}
